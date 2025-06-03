@@ -1,6 +1,6 @@
 # Delivery group governance
 
-This is the source repository for the delivery group governance pages at [https://defra.github.io/delivery-group-governance](https://defra.github.io/delivery-group-governance/)
+This is the source repository for the Delivery group governance pages at [https://defra.github.io/delivery-group-governance](https://defra.github.io/delivery-group-governance/)
 
 # Licence
 

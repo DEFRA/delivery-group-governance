@@ -5,7 +5,7 @@ includeInBreadcrumbs: true
 title: Assurance
 eleventyNavigation:
   key: Assurance
-  parent: Delivery Group Governance
+  parent: Delivery group governance
 ---
 
 Delivery teams should be aiming to work in the right way from the start.  

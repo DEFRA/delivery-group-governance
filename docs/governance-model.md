@@ -5,7 +5,7 @@ includeInBreadcrumbs: true
 title: Governance model
 eleventyNavigation:
   key: Governance model
-  parent: Delivery Group Governance
+  parent: Delivery group governance
 ---
 
 The governance model defines how each level and function supports the delivery group. 

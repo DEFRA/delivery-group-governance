@@ -7,15 +7,15 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     header: {
         logotype: {
-          text: 'Delivery Group Governance'
+          text: 'Delivery group governance'
         }
     },
-    titleSuffix: 'Delivery Group Governance',
+    titleSuffix: 'Delivery group governance',
     icons: {mask: false, shortcut: false, touch: false},
     homeKey: 'Governance model',
     footer: {
         copyright: {
-            text: '© Delivery Group Governance'
+            text: '© Delivery group governance'
           }
     }
 });

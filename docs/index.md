@@ -1,9 +1,9 @@
 ---
 homepage: true
 layout: main
-title: Delivery Group Governance
+title: Delivery group governance
 eleventyNavigation:
-  key: Delivery Group Governance
+  key: Delivery group governance
 ---
 
 The way we deliver Defra Group services is led by governance and assurance. These frameworks should be used by delivery groups to: 
