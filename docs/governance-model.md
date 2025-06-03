@@ -130,4 +130,4 @@ These versions highlight the information above in a visual way. These can be use
 
 ### Poster 
 
-![A poster version of the governance model.](/assets/images/governance-model-poster.png) 
+![A poster version of the governance model organised into 3 levels: strategic, co-ordination and implementation. Each level has a description of the functions within that level, for example, delivery, product, profession. There are examples roles for each function.](/assets/images/governance-model-poster.png) 
