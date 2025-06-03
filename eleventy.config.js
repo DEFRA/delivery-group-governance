@@ -20,6 +20,9 @@ module.exports = function(eleventyConfig) {
     }
 });
 
+  // Pass through
+  eleventyConfig.addPassthroughCopy('./docs/assets')
+
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
