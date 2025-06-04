@@ -42,7 +42,7 @@ Sets the overall technology guardrails which define how services will be develop
 
 Roles: Principal architect, principal developer 
 
-### Co-ordination level 
+## Co-ordination level 
 
 Ensures alignment and co-ordination across the delivery group, creating space for collaboration and making sure delivery is in line with the relevant roadmaps. 
 
@@ -58,7 +58,7 @@ Defines how individual services fit together to form a larger service. This incl
 
 Roles: Service designer 
 
-Product 
+### Product 
 
 Maintains the strategic roadmap set for the delivery group. Co-ordinates product management at implementation level, making sure that individual roadmaps align with strategic planning and dependencies are considered. 
 
