@@ -42,7 +42,7 @@ Sets the overall technology guardrails which define how services will be develop
 
 Roles: Principal architect, principal developer 
 
-## Co-ordination level 
+### Co-ordination level 
 
 Ensures alignment and co-ordination across the delivery group, creating space for collaboration and making sure delivery is in line with the relevant roadmaps. 
 
@@ -120,13 +120,13 @@ Roles: Project support officer, resource manager
 
 These versions highlight the information above in a visual way. These can be used to explain the model to different audiences. 
 
-### Simple visual 
-
-![A simplified visual version of the governance model. It uses an illustration to show that each level works together. It includes shortened information from the model about what each function’s actions.](/assets/images/governance-model-diagram.png) 
-
 ### Flow chart 
 
 [Delivery group governance model flow chart](/assets/images/delivery-group-governance-model-flow-chart.png 'Delivery group governance model flow chart') 
+
+### Simple visual 
+
+![A simplified visual version of the governance model. It uses an illustration to show that each level works together. It includes shortened information from the model about what each function’s actions.](/assets/images/governance-model-diagram.png) 
 
 ### Poster 
 
