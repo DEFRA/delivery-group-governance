@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Delivery group governance
 ---
 
-The way we deliver Defra Group services is led by governance and assurance. These frameworks should be used by delivery groups to: 
+The delivery group governance model defines how we decide what work we will do in delivery groups, and how we will complete that work. These frameworks should be used by delivery groups to: 
 
 * deliver [services]( https://www.gov.uk/service-manual/service-assessments/what-a-service-is) in an outcome-focused and [agile](https://www.gov.uk/service-manual/agile-delivery) way 
 * operate with clarity and consistency 
