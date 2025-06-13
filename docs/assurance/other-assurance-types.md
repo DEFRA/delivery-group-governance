@@ -55,4 +55,8 @@ Assurance for launching a private beta should focus on:
 
 ## Cross-cutting technical services (CCTS) 
 
-We are working with the CCTS assurance team to develop content for this area of assurance. We aim to update the model with this content in the next few weeks. 
+The CCTS assurance team help service teams meet Defra standards. They support teams by: 
+
+* engaging early to make sure teams are set up correctly from the start 
+* tracking progress and providing advice if required 
+* working with service assessors to provide a confidence level for each point of the service standard
