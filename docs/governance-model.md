@@ -70,7 +70,7 @@ Manages the co-ordination of delivery across multiple teams at the implementatio
 
 Roles: Programme delivery manager, programme manager 
 
-### Profession leads 
+### Profession leadership 
 
 Brings in and co-ordinates people to deliver services within the delivery group, ensuring that they have the right people, professions and skills to meet delivery expectations. They work together to create and nurture a community of practice, to maintain standards and share knowledge across the delivery group. 
 
