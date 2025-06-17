@@ -122,7 +122,7 @@ These versions highlight the information above in a visual way. These can be use
 
 ### Flow chart 
 
-[Delivery group governance model flow chart](/assets/images/delivery-group-governance-model-flow-chart.png 'Delivery group governance model flow chart') 
+[Delivery group governance model flow chart](/assets/images/governance-plan-flow-chart.png 'Delivery group governance model flow chart') 
 
 ### Simple visual 
 
