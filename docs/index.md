@@ -6,6 +6,20 @@ eleventyNavigation:
   key: Delivery group governance
 ---
 
+{% from "govuk/components/notification-banner/macro.njk" import govukNotificationBanner %}
+
+{% set html %}
+  <p class="govuk-notification-banner__heading">
+    This model is still in beta and has not yet been signed off by the delivery group design authority.
+    <a class="govuk-notification-banner__link" href="https://forms.office.com/e/1SKS6Enic5">Give your feedback</a>
+    on the governance model.
+  </p>
+{% endset %}
+
+{{ govukNotificationBanner({
+  html: html
+}) }}
+
 The governance model defines how a delivery group will prioritise and deliver work. Delivery group leads should use these frameworks as needed.
 
 The model and assurances should be used to: 
