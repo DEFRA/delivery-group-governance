@@ -31,7 +31,7 @@ The model and assurances should be used to:
 ***
 ## Governance 
 
-How a delivery group is structured and who is needed to deliver 
+How a delivery group is structured and who is needed to deliver outcomes 
 
 [View the governance model](/governance-model) 
 
