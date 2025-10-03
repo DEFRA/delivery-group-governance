@@ -10,7 +10,7 @@ eleventyNavigation:
 
 {% set html %}
   <p class="govuk-notification-banner__heading">
-    This model is still in beta and has not yet been signed off by the delivery group design authority.
+    This model has now been signed off. It will be rolled out across delivery groups by April 2026.
     <a class="govuk-notification-banner__link" href="https://forms.office.com/e/BzDTatu1yT">Give your feedback</a>
     on the governance model.
   </p>
