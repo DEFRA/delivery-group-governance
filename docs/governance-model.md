@@ -126,7 +126,7 @@ These versions highlight the information above in a visual way. These can be use
 
 ### Simple visual 
 
-![A simplified visual version of the governance model. It uses an illustration to show that each level works together. It includes shortened information from the model about what each function’s actions.](/assets/images/governance-model-diagram.png) 
+![A simplified visual version of the governance model. It uses an illustration to show that each level works together. It includes shortened information from the model about what each function’s actions.](/assets/images/governance-model-diagram-October-2025.png) 
 
 ### Poster 
 
