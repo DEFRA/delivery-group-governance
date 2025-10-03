@@ -42,6 +42,12 @@ Sets the overall technology guardrails which define how services will be develop
 
 Roles: Principal architect, principal developer 
 
+### Service design 
+
+Supports strategic decision making. Reviews and designs end-to-end service journeys based on user needs and organisation outcomes.
+
+Roles: Senior service designer, service designer
+
 ## Co-ordination level 
 
 Ensures alignment and co-ordination across the delivery group, creating space for collaboration and making sure delivery is in line with the relevant roadmaps. 
@@ -51,12 +57,6 @@ Ensures alignment and co-ordination across the delivery group, creating space fo
 Oversees and co-ordinates multiple smaller services which form a larger service, making sure they work together to deliver to user and organisational needs. 
 
 Roles: Operations or policy deputy director  
-
-### Service design 
-
-Defines how individual services fit together to form a larger service. This includes looking at the whole end-to-end user journey, covering both online and offline touchpoints throughout the lifecycle of a service. 
-
-Roles: Service designer 
 
 ### Product 
 
@@ -130,4 +130,11 @@ These versions highlight the information above in a visual way. These can be use
 
 ### Poster 
 
-![A poster version of the governance model organised into 3 levels: strategic, co-ordination and implementation. Each level has a description of the functions within that level, for example, delivery, product, profession. There are examples roles for each function.](/assets/images/governance-model-poster.png) 
+![A poster version of the governance model organised into 3 levels: strategic, co-ordination and implementation. Each level has a description of the functions within that level, for example, delivery, product, profession. There are examples roles for each function.](/assets/images/Governance-model-poster-October-2025.png) 
+
+***
+Published 19 June 2025
+Last updated 3 October 2025
+
+## 3 October 2025
+Moved service design to strategy level
