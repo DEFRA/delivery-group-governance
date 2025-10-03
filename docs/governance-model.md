@@ -120,10 +120,6 @@ Roles: Project support officer, resource manager
 
 These versions highlight the information above in a visual way. These can be used to explain the model to different audiences. 
 
-### Flow chart 
-
-[Delivery group governance model flow chart](/assets/images/delivery-group-governance-model-flow.png 'Delivery group governance model flow chart') 
-
 ### Simple visual 
 
 ![A simplified visual version of the governance model. It uses an illustration to show that each level works together. It includes shortened information from the model about what each function’s actions.](/assets/images/governance-model-diagram-October-2025.png) 
@@ -136,5 +132,5 @@ These versions highlight the information above in a visual way. These can be use
 Published 19 June 2025
 Last updated 3 October 2025
 
-## 3 October 2025
+**3 October 2025**
 Moved service design to strategy level
