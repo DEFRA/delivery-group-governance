@@ -126,11 +126,14 @@ These versions highlight the information above in a visual way. These can be use
 
 ### Poster 
 
-![A poster version of the governance model organised into 3 levels: strategic, co-ordination and implementation. Each level has a description of the functions within that level, for example, delivery, product, profession. There are examples roles for each function.](/assets/images/Governance-model-poster-October-2025.png) 
+![A poster version of the governance model organised into 3 levels: strategic, co-ordination and implementation. Each level has a description of the functions within that level, for example, delivery, product, profession. There are examples roles for each function.](/assets/images/delivery-group-governance-model-february-2026.png) 
 
 ***
 Published 19 June 2025
-Last updated 3 October 2025
+Last updated 16 February 2026
+
+**16 February 2026**
+Removed resource managers from coordination level
 
 **3 October 2025**
 Moved service design to strategy level
