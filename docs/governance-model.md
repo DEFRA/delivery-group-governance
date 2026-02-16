@@ -133,7 +133,7 @@ Published 19 June 2025
 Last updated 16 February 2026
 
 **16 February 2026**
-Removed resource managers from coordination level
+Removed resource managers from implementation level
 
 **3 October 2025**
 Moved service design to strategy level
