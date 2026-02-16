@@ -114,7 +114,7 @@ Roles: User researcher, content designer, interaction designer, service designer
 
 Provides operational support so that the team can focus on delivery, including financial management, reporting, compliance and assurance.  
 
-Roles: Project support officer, resource manager 
+Roles: Project support officer
 
 ## Visual versions 
 
