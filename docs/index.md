@@ -12,8 +12,6 @@ eleventyNavigation:
   <p class="govuk-notification-banner__heading">
     The governance model has been signed off and approved. It will be rolled out across delivery groups by April 2026.
     The assurances that support the model are in review and will be signed off separately.
-    <a class="govuk-notification-banner__link" href="https://forms.office.com/e/BzDTatu1yT">Give your feedback</a>
-    on the governance model.
   </p>
 {% endset %}
 
@@ -42,3 +40,8 @@ How a delivery group is structured and who is needed to deliver outcomes
 How we ensure quality, follow best practice and mitigate risk 
 
 [Read the list of assurances](/assurance) 
+
+***
+## Feedback
+
+<a href="https://forms.office.com/e/BzDTatu1yT">Give your feedback</a> on the governance model.
