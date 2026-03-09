@@ -11,7 +11,7 @@ eleventyNavigation:
 {% set html %}
   <p class="govuk-notification-banner__heading">
     The governance model has been signed off and approved. It will be rolled out across delivery groups by April 2026.
-    The assurances that support the model are in review and will be signed off separately.
+    <br>The assurances that support the model are in review and will be signed off separately.
   </p>
 {% endset %}
 
