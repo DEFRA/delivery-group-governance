@@ -34,7 +34,7 @@ Roles: Delivery group lead, programme delivery manager, programme manager
 
 Works with business to shape, set and prioritise outcomes. Develops and agrees the strategic roadmap for the delivery group to achieve these outcomes.  
 
-Roles: Delivery group lead, lead product manager 
+Roles: Delivery group lead, lead product manager, strategy lead, strategic engagement lead
 
 ### Technology 
 
