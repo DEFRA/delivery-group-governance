@@ -34,7 +34,7 @@ The service design review board is mandatory assurance as part of the readiness 
 
 A service must go to the review board before a service is live. This usually happens at the start of the beta phase. 
 
-The review board is made up of a group of function specialists. It checks that we can operate a reliable end-to-end service and meet [point 14 of the Service Standard[(https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service). 
+The review board is made up of a group of function specialists. It checks that we can operate a reliable end-to-end service and meet [point 14 of the Service Standard](https://www.gov.uk/service-manual/service-standard/point-14-operate-a-reliable-service). 
 
 ### Supporting the delivery team 
 
