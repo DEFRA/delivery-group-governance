@@ -108,7 +108,7 @@ Roles: Delivery manager, project manager
 
 Specialists across different professions work together to deliver outcomes for the delivery group, ensuring the product or service is built and maintained using user needs. 
 
-Roles: User researcher, content designer, interaction designer, service designer, developer, QA, architect, business analyst, performance analyst 
+Roles: User researcher, content designer, interaction designer, service designer, developer, QA, architect, business analyst, performance analyst, service readiness 
 
 ### Support  
 
